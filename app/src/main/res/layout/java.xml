@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#C34A4A"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context=".sportActivity">
+
+    <ImageView
+        android:id="@+id/imageView15"
+        android:layout_width="match_parent"
+        android:layout_height="396dp"
+        android:layout_marginBottom="70dp"
+        app:srcCompat="@drawable/java" />
+
+    <TextView
+        android:id="@+id/textView12"
+        android:layout_width="634dp"
+        android:layout_height="432dp"
+        android:layout_gravity="center"
+        android:background="#F4EBEB"
+        android:text="Java is a portable, object-oriented programming language known for its platform independence. It's widely used for enterprise-level applications, thanks to its &quot;Write Once, Run Anywhere&quot; capability, allowing code to run on diverse devices with Java Virtual Machine support. Java's strength lies in its broad community and extensive libraries, making it suitable for scalable and cross-platform development."
+        android:textColor="#0E0D0D"
+        android:textSize="20sp" />
+
+</LinearLayout>
+
+
+
+
+
+

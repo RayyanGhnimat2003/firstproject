@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FAF7F3"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context=".sportActivity">
+
+    <ImageView
+        android:id="@+id/imageView10"
+        android:layout_width="wrap_content"
+        android:layout_height="418dp"
+        android:layout_marginBottom="50dp"
+        app:srcCompat="@drawable/planes" />
+
+    <TextView
+        android:id="@+id/textView9"
+        android:layout_width="match_parent"
+        android:layout_height="359dp"
+        android:background="#CFA568"
+        android:text="Planning for tomorrow sets a clear direction and purpose, helping prioritize tasks and goals for the day ahead. It reduces stress by providing a roadmap, allowing for a more organized and efficient use of time. A well-thought-out plan also enables individuals to anticipate challenges and prepare effective solutions, fostering a sense of control and confidence. Ultimately, effective planning enhances productivity and ensures a more purposeful and fulfilling day."
+        android:textColor="#131313"
+        android:textSize="20sp" />
+
+</LinearLayout>
+
+
+
+
+
+

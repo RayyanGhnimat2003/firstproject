@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#4ABFC3"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context=".sportActivity">
+
+    <ImageView
+        android:id="@+id/imageView14"
+        android:layout_width="match_parent"
+        android:layout_height="214dp"
+        android:layout_marginBottom="50dp"
+        app:srcCompat="@drawable/python" />
+
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="match_parent"
+        android:layout_height="277dp"
+        android:background="#DFDF41"
+        android:text="Python is a versatile, readable programming language widely used in web development, data science, and artificial intelligence due to its simplicity and extensive libraries."
+        android:textColor="#0E0E0E"
+        android:textSize="16sp" />
+</LinearLayout>
+
+
+
+
+
+

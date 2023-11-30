@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F8F0E1"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context=".sportActivity">
+
+    <ImageView
+        android:id="@+id/imageView7"
+        android:layout_width="wrap_content"
+        android:layout_height="292dp"
+        android:layout_marginBottom="50dp"
+        app:srcCompat="@drawable/books" />
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="match_parent"
+        android:layout_height="197dp"
+        android:background="#E84949"
+        android:text="Reading books cultivates empathy by allowing readers to step into the shoes of diverse characters and understand different perspectives. It improves language and communication skills, expanding vocabulary and linguistic proficiency. Furthermore, engaging with literature has been linked to reduced cognitive decline as individuals age, contributing to overall mental well-being."
+        android:textColor="#090808"
+        android:textSize="16sp" />
+</LinearLayout>
+
+
+
+
+
+

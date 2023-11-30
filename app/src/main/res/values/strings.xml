@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyFirstAssignment</string>
+    <string name="welcome_to_tasks_app">Welcome to, Tasks App</string>
+    <string name="add">ADD</string>
+    <string name="please_enter_a_new_task">Please enter a new task</string>
+    <string name="save">Save</string>
+</resources>

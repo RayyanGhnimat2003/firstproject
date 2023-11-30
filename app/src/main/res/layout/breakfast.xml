@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#B5A2DA"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context=".sportActivity">
+
+    <ImageView
+        android:id="@+id/imageView6"
+        android:layout_width="wrap_content"
+        android:layout_height="282dp"
+        android:layout_marginBottom="40dp"
+        app:srcCompat="@drawable/rayanbreakfast" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="390dp"
+        android:layout_height="355dp"
+        android:background="#FFFBFB"
+        android:backgroundTint="#DDD7E4"
+        android:text="Starting your day with a nutritious breakfast offers a multitude of benefits. It replenishes your body's energy stores, boosting your physical and mental performance throughout the day. By fueling your brain, breakfast enhances cognitive function, improving alertness, concentration, and memory. Additionally, it promotes weight management by preventing overeating later in the day and reducing the risk of chronic diseases like type 2 diabetes and heart disease. Embrace breakfast as the foundation for a healthy and productive day."
+        android:textAlignment="center"
+        android:textColor="#0C0C0C"
+        android:textSize="20sp" />
+</LinearLayout>

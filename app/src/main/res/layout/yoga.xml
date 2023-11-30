@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#E8AB31"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context=".sportActivity">
+
+    <ImageView
+        android:id="@+id/imageView5"
+        android:layout_width="350dp"
+        android:layout_height="293dp"
+        android:layout_gravity="center"
+        android:layout_marginBottom="40dp"
+        app:srcCompat="@drawable/yoga2" />
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="335dp"
+        android:layout_height="223dp"
+        android:layout_gravity="center"
+        android:background="#12110E"
+        android:fontFamily="sans-serif-condensed"
+        android:shadowColor="#BAA0A0"
+        android:text=" Start slow and find a yoga style you like. Don't push yourself too hard. Join a class or group for motivation. Practice at home in a quiet place. Use a yoga mat and wear comfy clothes. Set a timer and focus on your breath."
+        android:textAlignment="textStart"
+        android:textColor="#FAFAFA"
+        android:textColorHighlight="#F8F0F0"
+        android:textColorHint="#F3F1F1"
+        android:textColorLink="#EFE6E6"
+        android:textSize="20sp" />
+</LinearLayout>
+
+
+
+
+
+
